@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MontViewTool::Renderer.copyright 'Ryan Montgomery', 'All rights reserved'
+```
 
 ## Development
 
